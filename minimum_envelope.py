@@ -65,5 +65,3 @@ testNotesClosestLocations = closestMelodyNotesDistance(testNotes)
 
 printToTab(testNotesClosestLocations)
 
-# just a test comment
-
